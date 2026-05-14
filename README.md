@@ -9,7 +9,7 @@
 
 Multimodal large language models (MLLMs) may memorize sensitive cross-modal information during pretraining, making machine unlearning (MU) crucial. Existing methods typically evaluate unlearning effectiveness based on output deviations, while overlooking the generation quality after unlearning. This can easily lead to hallucinated or rigid responses, thereby affecting the usability and safety of the unlearned model. To address this issue, we propose ASRU, a controllable multimodal unlearning framework that incorporates generation quality as a core evaluation objective. ASRU first induces initial refusal behavior through activation redirection, and then optimizes fine-grained refusal boundaries using a customized reward function, thereby achieving a better trade-off between target knowledge unlearning and model utility.
 
-![framework-asru](https://github.com/guangjh/ASRU/blob/main/assets/framework-asru.png)
+![framework-asru](https://github.com/guangjh/ASRU/blob/main/framework-asru.png)
 
 ## 📢 News
 - **[2026.05.01]** Our paper is accepted by ICML 2026.
