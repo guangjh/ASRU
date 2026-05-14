@@ -45,7 +45,7 @@ python MLLMU_finetune.py \
 
 ## 🚀 Running Baselines
 
-Detailed instructions for training baseline unlearning methods are available [here](your_link).
+Detailed instructions for training baseline unlearning methods are available at [baselines](./baselines/README.md).
 
 ## 🚀 Running ASRU
 
